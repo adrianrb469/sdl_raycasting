@@ -1,4 +1,4 @@
 # sdl_raycasting
 
-Video Showcase
-[![Sample Video](http://img.youtube.com/vi/kvKWRjLJD0g/0.jpg)]([http://www.youtube.com/watch?v=kvKWRjLJD0g](https://www.youtube.com/watch?v=kvKWRjLJD0g))
+Video Showcase <br>
+ <video src="https://github.com/adrianrb469/sdl_raycasting/assets/68407469/dbce7cbc-4b5d-44b0-8149-9d51fb0dd70b"></video>
